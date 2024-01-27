@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/023-UsingCoordinatorLayout.iml" filepath="$PROJECT_DIR$/023-UsingCoordinatorLayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UsingCoordinatorLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/UsingCoordinatorLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UsingCoordinatorLayout.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UsingCoordinatorLayout.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UsingCoordinatorLayout.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UsingCoordinatorLayout.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UsingCoordinatorLayout.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UsingCoordinatorLayout.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UsingCoordinatorLayout.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UsingCoordinatorLayout.app.unitTest.iml" />
     </modules>
   </component>
 </project>
